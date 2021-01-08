@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Produção acadêmica &#8211; Amanda Renaly</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Relações Públicas</description>
+	<lastBuildDate>Wed, 09 Oct 2019 11:12:08 +0000</lastBuildDate>
+	<language>pt-BR</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2019/10/cropped-45477128_1907789912607946_8655794685668753408_n-32x32.jpg</url>
+	<title>Produção acadêmica &#8211; Amanda Renaly</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>INTERCOM Sul 2019</title>
+		<link>./../../../intercom-sul-2019/index.html</link>
+					<comments>./../../../intercom-sul-2019/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[amandarenaly]]></dc:creator>
+		<pubDate>Tue, 09 Jul 2019 11:09:48 +0000</pubDate>
+				<category><![CDATA[Produção acadêmica]]></category>
+		<guid isPermaLink="false">./../../../index.html?p=787</guid>
+
+					<description><![CDATA[Participei em junho de 2019 do XX Congresso de Ciências da Comunicação na Região Sul (Intercom Regional SUL 2019), em Porto Alegre &#8211; RS. Nele, apresentamos um planejamento estratégico desenvolvido para a ONG Fênix &#8211; Ações Pela Vida, produto de uma disciplina do ano anterior.]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image"><img loading="lazy" width="720" height="960" src="./../../../wp-content/uploads/2019/10/64599854_2372373519506465_6479960581318115328_n.jpg" alt="" class="wp-image-788" srcset="./../../../wp-content/uploads/2019/10/64599854_2372373519506465_6479960581318115328_n.jpg 720w, ./../../../wp-content/uploads/2019/10/64599854_2372373519506465_6479960581318115328_n-225x300.jpg 225w, ./../../../wp-content/uploads/2019/10/64599854_2372373519506465_6479960581318115328_n-45x60.jpg 45w" sizes="(max-width: 720px) 100vw, 720px" /></figure>
+
+
+
+<p>Participei em junho de 2019 do  XX Congresso de Ciências da Comunicação na Região Sul (<a href="https://www.facebook.com/intercomregionalSUL/?__xts__%5B0%5D=68.ARAo9fLb-jawwbK-z0JeSMAzXQq0iL92bnrB6tpKmdXVJbfN50-W7ZS5r_xkmYHLSxyToVPSpuvN_8VLmamo69o5tUsOo2ptLCOVxZPrPcS0NFzEYy9ZzOprT_fEuHHoKav-EMX5KAXzZ7929meJRKqvRsbR2MgLE6pq6mNiVNfKKjPSiux2TBEFaIU_zGi0xe9NrVIgW7YaK7RGzMh3I49IJxaDftVn58FAwMGXCvEqZpFYSRjV79MU-kdsZQxH79kbZ2GzHg-lbNYBTH1zlWWMGe4i0EEfGeVKTGjgkp0EE4qVnvq-GizgdrI478ifLcLVkTfw9EfusyZrf4PMvyqATQ&amp;__tn__=%2CdK%2AF-R&amp;eid=ARBm5IJPffKjBgRkPSCc36xz7TTj0_p0F67eYVC-Ruzl45G8mBHsuhBMq53glK3iT1RYDsZ8CNavzzYC">Intercom Regional SUL</a> 2019), em Porto Alegre &#8211; RS. Nele, apresentamos um planejamento estratégico desenvolvido para a ONG Fênix &#8211; Ações Pela Vida, produto de uma disciplina do ano anterior. </p>
+
+
+
+<figure class="wp-block-image"><img loading="lazy" width="960" height="720" src="./../../../wp-content/uploads/2019/10/64769898_2372373589506458_4387096822695329792_n.jpg" alt="" class="wp-image-789" srcset="./../../../wp-content/uploads/2019/10/64769898_2372373589506458_4387096822695329792_n.jpg 960w, ./../../../wp-content/uploads/2019/10/64769898_2372373589506458_4387096822695329792_n-300x225.jpg 300w, ./../../../wp-content/uploads/2019/10/64769898_2372373589506458_4387096822695329792_n-768x576.jpg 768w, ./../../../wp-content/uploads/2019/10/64769898_2372373589506458_4387096822695329792_n-80x60.jpg 80w" sizes="(max-width: 960px) 100vw, 960px" /></figure>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../intercom-sul-2019/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
